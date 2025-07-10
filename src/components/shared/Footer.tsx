@@ -45,7 +45,7 @@ const Footer = () => {
             <h4 className="text-lg font-semibold">主要服务</h4>
             <ul className="space-y-2">
               <li><a href="#" className="text-gray-300 hover:text-white transition-colors">技术咨询</a></li>
-              <li><a href="#" className="text-gray-300 hover:text-white transition-colors">人才培养</a></li>
+              <li><a href="#" className="text-pink-500 hover:text-pink-400 transition-colors">人才培养</a></li>
               <li><a href="#" className="text-gray-300 hover:text-white transition-colors">业务增长</a></li>
               <li><a href="#" className="text-gray-300 hover:text-white transition-colors">安全保障</a></li>
               <li><a href="#" className="text-gray-300 hover:text-white transition-colors">项目管理</a></li>
